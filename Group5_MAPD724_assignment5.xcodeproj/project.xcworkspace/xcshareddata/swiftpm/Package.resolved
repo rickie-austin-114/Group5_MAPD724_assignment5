@@ -1,0 +1,15 @@
+{
+  "originHash" : "7ade2deeea6f5bee3c6dea5c45ae9b68f1a6a54e3c3aa1b79da54a8e9eadd2d4",
+  "pins" : [
+    {
+      "identity" : "swiftcamera",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/cenkbilgen/SwiftCamera.git",
+      "state" : {
+        "revision" : "67fdb4c22a71dbe937e3447d9fd0c7803f32ca95",
+        "version" : "1.8.2"
+      }
+    }
+  ],
+  "version" : 3
+}
